@@ -1,0 +1,6 @@
+dist/
+node_modules/
+.ini
+/src/extensions/default/brackets-eslint
+/src/styles/brackets.min.css
+/src/styles/brackets.min.css.map
